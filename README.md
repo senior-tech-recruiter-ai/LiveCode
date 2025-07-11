@@ -1,4 +1,1 @@
-🔒 DISCLAIMER:
-This is a simplified public demo of a resume parsing tool using open-source NLP libraries.
-It does not reflect the proprietary scoring or matching logic used in production systems
-like TalentSync™, FitScore™, or EngageIQ™.
+Note: This parser is a simplified proof-of-concept using spaCy and keyword-matching. It is not the full logic used in our proprietary AI hiring engines (TalentSync™, FitScore™, etc.).
